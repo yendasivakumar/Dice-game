@@ -5,9 +5,9 @@ Player who scores score greater than or equal to 100 first wins the game.
 </br>
 </br>
 Techstack
-HTML 5
-CSS 3
-Javascript
+<p>HTML 5</p>
+<p>CSS 3</p>
+<p>Javascript</P>
 
 </br>
 **Deployed link**
